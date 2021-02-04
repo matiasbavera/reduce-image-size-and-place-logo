@@ -1,0 +1,1 @@
+# reduce-image-size-and-place-logo
